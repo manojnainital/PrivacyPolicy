@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2 {
+            color: #2E8B57;
+        }
+        p, ul {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy for Uttarakhand Pariksha Vani</h1>
+    <p>Effective Date: [Insert Date]</p>
+
+    <h2>1. Introduction</h2>
+    <p>Welcome to Uttarakhand Pariksha Vani, accessible from the <a href="https://play.google.com/store/apps/details?id=uk.pv&hl=en" target="_blank">Google Play Store</a>. This Privacy Policy describes how we handle the collection, use, and protection of personal information in our application.</p>
+
+    <h2>2. Information Collection</h2>
+    <p>Our app does not directly collect or store personal information from users. However, certain non-personal information may be automatically collected, such as:</p>
+    <ul>
+        <li>Device information (e.g., device type, operating system)</li>
+        <li>Usage statistics and analytics for app improvement</li>
+        <li>Google AdMob data for ad performance tracking</li>
+    </ul>
+
+    <h2>3. Information Use</h2>
+    <p>The information we collect is used to improve app functionality, enhance user experience, and serve relevant ads. Non-personal information may be used in aggregate to analyze trends and monitor app usage.</p>
+
+    <h2>4. Third-Party Services</h2>
+    <p>Our app may contain third-party links or services, such as Google AdMob for advertising purposes. These services may collect, use, and share information according to their own privacy policies. We encourage users to review those policies for more details.</p>
+
+    <h2>5. Data Security</h2>
+    <p>We implement appropriate technical and organizational measures to protect user data and ensure secure handling of any collected information. However, please be aware that no security measures are completely foolproof.</p>
+
+    <h2>6. Data Retention and Deletion</h2>
+    <p>We retain non-personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy. Users may request data deletion by contacting us through the contact information below.</p>
+
+    <h2>7. Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy periodically. Users will be notified of any significant changes through the app or an updated posting on our app’s Google Play Store listing.</p>
+
+    <h2>8. Contact Us</h2>
+    <p>If you have any questions or concerns regarding this Privacy Policy, please contact us at:</p>
+    <p>Email: <a href="mailto:mrmanojrawat001@gmail.com">mrmanojrawat001@gmail.com</a></p>
+
+    <footer>
+        <p><small>&copy; 2024 Uttarakhand Pariksha Vani. All rights reserved.</small></p>
+    </footer>
+</body>
+</html>
