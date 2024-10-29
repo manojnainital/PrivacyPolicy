@@ -3,48 +3,149 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy Policy - UK.PV App</title>
+    <title>Privacy Policy</title>
     <style>
+        /* Global styles */
         body {
             font-family: Arial, sans-serif;
+            background-color: white;
+            color: #333;
+            margin: 0;
+            padding: 0;
             line-height: 1.6;
-            margin: 20px;
+            text-align: center;
         }
+
+        .container {
+            max-width: 1000px;
+            margin: 50px auto 20px;
+            padding: 20px; /* Added padding for better spacing */
+            text-align: left;
+            background-color: #fff; /* Added background color for the container */
+            border-radius: 8px; /* Optional: Adds rounded corners */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+        }
+
+        .containerTop {
+            max-width: 500px;
+            margin: 5px auto 2px;
+            padding: 10px; /* Added padding for better spacing */
+            text-align: center;
+        }
+
         h1, h2, h3 {
-            color: #2E8B57;
+            color: #444;
         }
-        p, li {
-            margin-bottom: 10px;
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: -20px;
+        }
+
+        h2 {
+            font-size: 1.8em;
+            margin-top: 30px;
+        }
+
+        h3 {
+            font-size: 1em;
+            margin-top: 5px;
+        }
+
+        p {
+            font-size: 1.1em;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            margin: 0 0 20px 20px;
+            font-size: 1.1em;
+        }
+
+        /* Effective Date style */
+        .effective-date {
+            font-size: 1.2em;
+            color: #777;
+            margin-top: 20px;
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            font-size: 0.9em;
+            padding: 20px 0;
+            color: #777;
+        }
+
+        /* Mobile responsiveness */
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+
+            h2 {
+                font-size: 1.5em;
+            }
+
+            h3 {
+                font-size: 0.8em; /* Adjusted for better responsiveness */
+            }
         }
     </style>
 </head>
 <body>
 
+<div class="containerTop">
     <h1>Privacy Policy</h1>
-    <p>This Privacy Policy governs the manner in which the UK.PV app ("we", "our", or "us") collects, uses, and discloses information from users.</p>
+    <!-- Effective Date -->
+    <div class="effective-date">
+        <h3>Effective Date: October 10, 2024</h3>
+    </div>
+</div>
 
-    <h2>Data Collection and Use</h2>
-    <p>Our app collects data to ensure functionality and improve the user experience. This includes:</p>
+<div class="container">
+    <p>Thank you for using our Uttarakhand Exam Paper MOC Test app. Your privacy is important to us, and we are committed to protecting the personal information you provide to us. This Privacy Policy explains how we collect, use, and safeguard your information.</p>
+
+    <h2>Data Collection</h2>
+    <p>We may collect certain information when you use our app. This includes:</p>
     <ul>
-        <li><strong>ACCESS_NETWORK_STATE and INTERNET:</strong> Used to check network connectivity and load content like advertisements.</li>
-        <li><strong>READ_PHONE_STATE:</strong> Used to access device state for functional purposes without storing or sharing any contact data.</li>
+        <li><strong>Device Information:</strong> We may collect information about the device you use to access our app, such as the model, operating system, and unique device identifiers.</li>
+        <li><strong>Usage Data:</strong> We collect information about how you use the app, including the features you access and your interaction with the app.</li>
     </ul>
 
-    <h2>Data Sharing</h2>
-    <p>Your data is shared only with necessary service providers:</p>
+    <h2>Permissions We Request</h2>
+    <p>Our app requires certain permissions to function properly. These permissions include:</p>
     <ul>
-        <li><strong>Advertising Services:</strong> We use Google AdMob to serve advertisements. For details, refer to <a href="https://policies.google.com/privacy">Google’s Privacy Policy</a>.</li>
+        <li><strong>INTERNET:</strong> This permission is used to allow the app to connect to the internet and fetch data from servers.</li>
+        <li><strong>ACCESS_NETWORK_STATE:</strong> This permission allows the app to check the network status (Wi-Fi or mobile data) to ensure connectivity.</li>
+        <li><strong>ACCESS_WIFI_STATE:</strong> This permission is used to check the status of Wi-Fi connectivity to optimize network usage.</li>
     </ul>
+
+    <h2>Data Usage</h2>
+    <p>We use the information collected to improve the app's performance, provide updates, and enhance the user experience. We do not share your information with third-party services for marketing purposes.</p>
 
     <h2>Data Security</h2>
-    <p>We implement industry-standard security measures to protect your data from unauthorized access. However, please understand that no security measure is absolutely secure.</p>
+    <p>We take the security of your information seriously and implement appropriate measures to protect it from unauthorized access or disclosure.</p>
 
-    <h2>Data Retention and Deletion</h2>
-    <p>Data is retained only as necessary to provide services or as required by law. Contact us if you wish to delete your data.</p>
+    <h2>Children's Privacy</h2>
+    <p>Our app does not knowingly collect personal information from children under the age of 13. If we become aware that we have inadvertently collected such information, we will take steps to delete it promptly.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. You are encouraged to review this policy periodically for any changes. Continued use of the app after any changes will indicate your acceptance of the updated policy.</p>
 
     <h2>Contact Us</h2>
-    <p>If you have any questions or concerns, please contact us at:</p>
-    <p><strong>Email:</strong> <a href="mailto:[Your Contact Email]">[Your Contact Email]</a></p>
+    <p>If you have any questions about this Privacy Policy or our privacy practices, please contact us at:</p>
+    <p>Email: mrmanojrawat001@gmail.com</p>
+    <p>Contact: +91 9927888451</p>
+</div>
+
+<div class="footer">
+    <p>&copy; 2024 All rights reserved.</p>
+</div>
 
 </body>
 </html>
